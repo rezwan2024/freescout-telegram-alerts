@@ -1,0 +1,13 @@
+.DS_Store
+.clasprc.json
+**/.clasprc.json
+.env
+.env.*
+*.secret
+credentials*.json
+.playwright-mcp/
+node_modules/
+
+# local-only real account details
+LOCAL-PRIVATE.md
+freescout-telegram-alerts/.clasp.json

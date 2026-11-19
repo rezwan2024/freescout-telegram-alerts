@@ -1,0 +1,14 @@
+# clasp credentials (never commit)
+.clasprc.json
+**/.clasprc.json
+
+# local secrets
+.env
+.env.*
+*.secret
+secrets.*
+credentials*.json
+
+# OS / editor
+.DS_Store
+node_modules/
